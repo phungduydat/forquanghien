@@ -33,7 +33,7 @@ body {
 	--color-link-hover: #fff;
 	--color-content-title-sub: #6b5537;
     color: var(--color-text);
-    background-color: var(--color-bg);
+    background-color: #ff000096;
     --cursor-stroke: #6b5537;
     --cursor-fill: none;
     --cursor-stroke-width: 1px;
